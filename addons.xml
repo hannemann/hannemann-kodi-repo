@@ -14,9 +14,9 @@
 	</extension>
 </addon>
 
-<addon id="skin.estuary" version="2.0.0" name="Estuary" provider-name="phil65, Ichabod Fletchman">
+<addon id="skin.estuary-pvr" version="0.1.0" name="Estuary-PVR" provider-name="phil65, Ichabod Fletchman, Hannemann">
 	<requires>
-		<import addon="xbmc.gui" version="5.13.0"/>
+		<import addon="xbmc.gui" version="5.12.0"/>
 	</requires>
 	<extension point="xbmc.gui.skin" debugging="false">
 		<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
@@ -29,7 +29,7 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="bg_BG">Estuary облик от phil65 и Piers. (стандартния облик на Kodi)</summary>
 		<summary lang="cs_CZ">Motiv vzhledu Estuary od autorů phil65 a Piers. (výchozí vzhled Kodi)</summary>
-		<summary lang="de_DE">Estuary skin by phil65 and Piers. (Kodi Standardskin)</summary>
+		<summary lang="de_DE">Estuary skin modded by Hannemann</summary>
 		<summary lang="el_GR">Το κέλυφος Estuary από τον phil65 και τον Pier. (προεπιλεγμένο κέλυφος του Kodi)</summary>
 		<summary lang="en_GB">Estuary skin by phil65. (Kodi's default skin)</summary>
 		<summary lang="en_NZ">Estuary skin by phil65 and Piers. (Kodi's default skin)</summary>
@@ -127,7 +127,7 @@
 		<platform>all</platform>
 		<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
 		<forum>http://forum.kodi.tv/</forum>
-		<source>https://github.com/xbmc/skin.estuary/</source>
+		<source>https://github.com/hannemann/skin.estuary.git</source>
 			<assets>
 				<icon>resources/icon.png</icon>
 				<fanart>resources/fanart.jpg</fanart>
