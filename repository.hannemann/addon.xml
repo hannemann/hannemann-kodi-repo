@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.hannemann" name="Hannemann's KODI Addons" version="0.1.0" provider-name="Hannemann">
+	<extension point="xbmc.addon.repository" name="Hannemann's KODI Addon Repository">
+		<info compressed="false">https://github.com/hannemann/hannemann-kodi-repo/addons.xml</info>
+		<checksum>https://github.com/hannemann/hannemann-kodi-repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/hannemann/hannemann-kodi-repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Hannemann's Addon Repository</summary>
+		<description>Download and install hannemann's addon repository</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
