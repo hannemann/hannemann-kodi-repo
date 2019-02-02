@@ -1,0 +1,3 @@
+0.4.1
+- make program title even larger
+- make unfocused progress more noticeable
