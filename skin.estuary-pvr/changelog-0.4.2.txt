@@ -1,0 +1,5 @@
+0.4.1
+- bigger list view label 
+- bigger wide list view label
+- bigger labels in info wall
+- bigger recordings list label
