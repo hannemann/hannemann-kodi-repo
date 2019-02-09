@@ -1,0 +1,6 @@
+0.4.3
+- delete obsolete files (fixes missing pvr osd info)
+- add fontsize 41
+- enlarge seekbar labels
+- enlarge osd info
+- enlarge osd channels
