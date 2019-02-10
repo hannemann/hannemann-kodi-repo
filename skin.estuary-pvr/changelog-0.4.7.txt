@@ -1,0 +1,2 @@
+0.4.7
+- add epg info box to channels osd 
