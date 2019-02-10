@@ -1,0 +1,3 @@
+0.4.8
+- use white progress for unfocused items
+- configurable font size for label title in channel lists
