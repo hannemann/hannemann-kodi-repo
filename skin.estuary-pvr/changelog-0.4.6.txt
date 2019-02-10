@@ -1,0 +1,2 @@
+0.4.6
+- bigger fonts in timer list, recordings folders, epgdate on channel view
