@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.estuary-pvr" version="0.4.8" name="Estuary-PVR" provider-name="phil65, Ichabod Fletchman, Hannemann">
+<addon id="skin.estuary-pvr" version="0.5.0" name="Estuary-PVR" provider-name="phil65, Ichabod Fletchman, Hannemann">
 	<requires>
-		<import addon="xbmc.gui" version="5.14.0"/>
+		<import addon="xbmc.gui" version="5.15.0"/>
 	</requires>
 	<extension point="xbmc.gui.skin" debugging="false">
 		<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
@@ -14,7 +14,7 @@
 		<res width="2160" height="1080" aspect="18:9" default="false" folder="xml" />
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="de_DE">Estuary Skin moddes by Hannemann</summary>
+		<summary lang="de_DE">Estuary Skin modded by Hannemann</summary>
 		<summary lang="en_US">Estuary skin modded by Hannemann</summary>
 		<description lang="de_DE">Dieser Mod hat das Ziel einige Schriften größer darzustellen, damit sie auch auf weit entfernten Displays noch lesbar sind. Sonst soll nichts verändert werden.</description>
 		<description lang="en_US">This mod aims to enlarge some fonts so that they can be read from displays far away</description>
