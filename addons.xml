@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.hannemann" name="Hannemann's KODI Addons" version="0.1.0" provider-name="Hannemann">
-	<extension point="xbmc.addon.repository" name="Hannemann's KODI Addon Repository">
-		<info compressed="false">https://raw.githubusercontent.com/hannemann/hannemann-kodi-repo/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/hannemann/hannemann-kodi-repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/hannemann/hannemann-kodi-repo/master/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Hannemann's Addon Repository</summary>
-		<description>Download and install hannemann's addon repository</description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="skin.estuary-pvr" version="0.5.0" name="Estuary-PVR" provider-name="phil65, Ichabod Fletchman, Hannemann">
+<addon id="skin.estuary-pvr" version="0.5.1" name="Estuary-PVR" provider-name="phil65, Ichabod Fletchman, Hannemann">
 	<requires>
 		<import addon="xbmc.gui" version="5.15.0"/>
 	</requires>
@@ -51,6 +37,20 @@
 			<screenshot>resources/screenshot-07.jpg</screenshot>
 			<screenshot>resources/screenshot-08.jpg</screenshot>
 		</assets>
+	</extension>
+</addon>
+
+<addon id="repository.hannemann" name="Hannemann's KODI Addons" version="0.1.0" provider-name="Hannemann">
+	<extension point="xbmc.addon.repository" name="Hannemann's KODI Addon Repository">
+		<info compressed="false">https://raw.githubusercontent.com/hannemann/hannemann-kodi-repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/hannemann/hannemann-kodi-repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/hannemann/hannemann-kodi-repo/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Hannemann's Addon Repository</summary>
+		<description>Download and install hannemann's addon repository</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
 	</extension>
 </addon>
 </addons>

@@ -1,0 +1,3 @@
+0.5.1
+- enlarge channel list item title
+- enlarge upcoming
